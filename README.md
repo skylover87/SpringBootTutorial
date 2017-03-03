@@ -10,7 +10,7 @@ The following areas that we will be covering
 
 
 
-#Installing Tools (#installing_intellj_maven_java)
-* IntellJ (http://google.com)
-* Maven
-* Java
+#Installing Tools 
+* IntellJ (https://www.jetbrains.com/idea/)
+* Maven (https://maven.apache.org/)
+* Java SDK (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
