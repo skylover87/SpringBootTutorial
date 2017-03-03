@@ -3,6 +3,7 @@ This is a Spring Boot Tutorial for Noobie to have no knowledge about what Spring
 
 The following areas that we will be covering
 * [Installing IntellJ, Maven and Java] (#installing-tools)
+* [Introduction] (#introduction)
 * [Running Example] (#running-example)
 
 
