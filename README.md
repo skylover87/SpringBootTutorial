@@ -1,16 +1,16 @@
-# Basic Spring Boot Tutorial for Noobie (#anchors-Header)
+# Basic Spring Boot Tutorial for Noobie 
 This is a Spring Boot Tutorial for Noobie to have no knowledge about what Spring Boot is. This tutorial will show you how to setup Spring Boot in less than 30 minutes.
 
 The following areas that we will be covering
-* [Installing IntellJ, Maven and Java] (#installing_intellj_maven_java)
-* Running Example (#Running Example)
+* [Installing IntellJ, Maven and Java] (Installing_Tools)
+* Running Example (Running_Example)
 
 
 
 
 
 
-# Installing Tools 
+# [Installing_Tools] Installing Tools 
 * IntellJ (https://www.jetbrains.com/idea/)
 * Maven (https://maven.apache.org/)
 * Java SDK (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
@@ -24,6 +24,6 @@ Do read up more information from the following sites:
 * Spring Boot (https://projects.spring.io/spring-boot/)
 * Spring Boot Guide (https://spring.io/guides/gs/spring-boot/)
 
-# Running Example
+# [Running_Example] Running Example
 
 Project still in progress
