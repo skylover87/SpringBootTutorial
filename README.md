@@ -9,7 +9,7 @@ The following areas that we will be covering
 
 
 
-# Installing Tools (Installing_Tools)
+# Installing Tools (#Installing_Tools)
 * IntellJ (https://www.jetbrains.com/idea/)
 * Maven (https://maven.apache.org/)
 * Java SDK (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
@@ -23,6 +23,6 @@ Do read up more information from the following sites:
 * Spring Boot (https://projects.spring.io/spring-boot/)
 * Spring Boot Guide (https://spring.io/guides/gs/spring-boot/)
 
-# Running Example (Running_Example)
+# Running Example (#Running_Example)
 
 Project still in progress
