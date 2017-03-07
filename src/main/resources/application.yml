@@ -8,3 +8,12 @@ mySampleConfig:
   app-description: ${mySampleConfig.app-name} for Spring Boot
   admin-name: sk
   admin-email: xxx@gmail.com
+
+##Alternative ways to setup properties in YAML file
+environments:
+  development:
+    url: http://wwww.developer.com
+    name: Developer Environment
+  production:
+    url: http://www.production.com
+    name: Production Environment

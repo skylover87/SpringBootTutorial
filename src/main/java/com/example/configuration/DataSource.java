@@ -1,0 +1,46 @@
+package com.example.configuration;
+
+import org.apache.commons.lang3.builder.ToStringBuilder;
+import org.apache.commons.lang3.builder.ToStringStyle;
+
+/**
+ * Created by sengkai on 3/7/2017.
+ */
+public class DataSource {
+
+  private String server;
+  private int port;
+
+  public DataSource() {
+  }
+
+  public DataSource(String server, int port) {
+
+    this.server = server;
+    this.port = port;
+  }
+
+  public String getServer() {
+    return server;
+  }
+
+  public void setServer(String server) {
+    this.server = server;
+  }
+
+  public int getPort() {
+    return port;
+  }
+
+  public void setPort(int port) {
+    this.port = port;
+  }
+
+  @Override
+  public String toString() {
+    return new ToStringBuilder(this, ToStringStyle.JSON_STYLE)
+        .append("server", server)
+        .append("port", port)
+        .toString();
+  }
+}
