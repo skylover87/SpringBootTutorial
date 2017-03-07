@@ -2,3 +2,9 @@ pageController:
   msg: "Hello from YAML Config"
   foo: "foo"
   bar: "bar"
+
+mySampleConfig:
+  app-name: Basic Application
+  app-description: ${mySampleConfig.app-name} for Spring Boot
+  admin-name: sk
+  admin-email: xxx@gmail.com
